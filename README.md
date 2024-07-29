@@ -1,2 +1,2 @@
 # Codsoft
-DOTMEDS is a comprehensive medical website designed to provide reliable and accessible health information.
+A simple and intuitive calculator built with HTML, CSS, and JavaScript, featuring basic arithmetic operations and a responsive design for seamless use across devices. Perfect for learning and experimenting with front-end development.
